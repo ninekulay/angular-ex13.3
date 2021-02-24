@@ -1,0 +1,28 @@
+.layer1 {
+    position: absolute;
+    z-index: 1;
+    height: 250px;
+    width: 350px;
+    top: 40px;
+    left: 40px;
+    }
+.layer2 {
+    position: absolute;
+    z-index: 2;
+    top: 400px;
+    left: 260px;
+    }
+.layer3 {
+    position: absolute;
+    z-index: 3;
+    top: 60px;
+    left: 80px;
+    }
+.layer4 {
+    position: absolute;
+    z-index: 4;
+    top: 140px;
+    left: 280px;
+    width: 750px;
+    height: 200px;
+    }
